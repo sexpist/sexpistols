@@ -1,0 +1,9 @@
+Building SexPistols
+
+See doc/readme-qt.rst for instructions on building SexPistols QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SexPistols.
+
+See doc/build-*.txt for instructions on building sexpistolsd,
+the intended-for-services, no-graphical-interface, reference
+implementation of SexPistols.
